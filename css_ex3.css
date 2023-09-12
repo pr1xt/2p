@@ -1,0 +1,19 @@
+#answer_cont {
+    background: linear-gradient(45deg, coral, rgb(231, 35, 28));
+    position: absolute;
+    top: 4vh;
+    left: 34vw;
+    right: 34vw;
+    bottom: auto;
+    text-align: center;
+    color: antiquewhite;
+}
+#userNumber{
+    margin-bottom: 3vh;
+}
+#answer {
+    padding-top: 3vh;
+    color: antiquewhite;
+    font-size: 150%;
+    
+}
